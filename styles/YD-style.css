@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: white;
+  background-image: url("../images/R-C.png");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.au0 {
+  margin-top: 10px;
+}
+.d1 {
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.vi0 {
+  height: 350px;
+  width: 600px;
+}
+.d2 {
+  height: 520px;
+  width: 780px;
+}
